@@ -1,0 +1,15 @@
+/home/kondratuyk-ki/.mozilla/firefox/abmmv820.default-release/storage/permanent/chrome/idb/3870112724rsegmnoittet-es.sqlite
+/home/kondratuyk-ki/.mozilla/firefox/abmmv820.default-release/places.sqlite
+/home/kondratuyk-ki/.mozilla/firefox/abmmv820.default-release/favicons.sqlite
+/home/kondratuyk-ki/.config/Code/CachedData/994fd12f8d3a5aa16f17d42c041e5809167e845a/chrome/js/238cbc569b7386a9_0
+/home/kondratuyk-ki/.oh-my-zsh/plugins/z/img/demo.gif
+/home/kondratuyk-ki/.oh-my-zsh/plugins/zsh-interactive-cd/demo.gif
+/home/kondratuyk-ki/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting/.git/objects/pack/pack-3d3d23bc1382c85e79df6a8e6a5c6e5bf50bb3a3.pack
+/home/kondratuyk-ki/.oh-my-zsh/.git/objects/pack/pack-c567f901d75487872050df80f1504dc84368170d.pack
+/home/kondratuyk-ki/.cache/mozilla/firefox/abmmv820.default-release/cache2/entries/6F37107BC237499428C82A45A2AF41C17DF140DE
+/home/kondratuyk-ki/.cache/mozilla/firefox/abmmv820.default-release/safebrowsing/google-trackwhite-digest256.vlpset
+/home/kondratuyk-ki/.cache/mozilla/firefox/abmmv820.default-release/safebrowsing/google4/goog-phish-proto.vlpset
+/home/kondratuyk-ki/.cache/mozilla/firefox/abmmv820.default-release/startupCache/startupCache.8.little
+/home/kondratuyk-ki/.cache/mozilla/firefox/abmmv820.default-release/startupCache/scriptCache.bin
+/home/kondratuyk-ki/.cache/mesa_shader_cache_db/index
+/home/kondratuyk-ki/Downloads/code.deb

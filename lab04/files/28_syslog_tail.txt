@@ -1,0 +1,20 @@
+2025-12-23T01:20:56.835291+03:00 ondratuyk-pc kernel: ISO 9660 Extensions: RRIP_1991A
+2025-12-23T01:20:56.833361+03:00 ondratuyk-pc udisksd[628]: Mounted /dev/sr0 at /media/kondratuyk-ki/VBox_GAs_7.2.4 on behalf of uid 1000
+2025-12-23T01:29:44.936486+03:00 ondratuyk-pc dbus-daemon[1166]: [session uid=1000 pid=1166] Activating service name='org.xfce.Xfconf' requested by ':1.25' (uid=1000 pid=1510 comm="xfce4-panel" label="unconfined")
+2025-12-23T01:29:44.947498+03:00 ondratuyk-pc dbus-daemon[1166]: [session uid=1000 pid=1166] Successfully activated service 'org.xfce.Xfconf'
+2025-12-23T01:31:50.239910+03:00 ondratuyk-pc systemd[1]: Starting motd-news.service - Message of the Day...
+2025-12-23T01:31:50.253031+03:00 ondratuyk-pc systemd[1]: motd-news.service: Deactivated successfully.
+2025-12-23T01:31:50.253472+03:00 ondratuyk-pc systemd[1]: Finished motd-news.service - Message of the Day.
+2025-12-23T01:37:57.740204+03:00 ondratuyk-pc dbus-daemon[587]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.91' (uid=0 pid=3856 comm="/usr/bin/gdbus call --system --dest org.freedeskto" label="unconfined")
+2025-12-23T01:37:57.748046+03:00 ondratuyk-pc systemd[1]: Starting packagekit.service - PackageKit Daemon...
+2025-12-23T01:37:57.766593+03:00 ondratuyk-pc PackageKit: daemon start
+2025-12-23T01:37:57.791788+03:00 ondratuyk-pc dbus-daemon[587]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+2025-12-23T01:37:57.792057+03:00 ondratuyk-pc systemd[1]: Started packagekit.service - PackageKit Daemon.
+2025-12-23T01:38:11.071256+03:00 ondratuyk-pc dbus-daemon[587]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.93' (uid=1000 pid=3868 comm="xfce4-screenshooter" label="unconfined")
+2025-12-23T01:38:11.086876+03:00 ondratuyk-pc systemd[1]: Starting systemd-hostnamed.service - Hostname Service...
+2025-12-23T01:38:11.161631+03:00 ondratuyk-pc dbus-daemon[587]: [system] Successfully activated service 'org.freedesktop.hostname1'
+2025-12-23T01:38:11.163200+03:00 ondratuyk-pc systemd[1]: Started systemd-hostnamed.service - Hostname Service.
+2025-12-23T01:38:13.334383+03:00 ondratuyk-pc dbus-daemon[1166]: [session uid=1000 pid=1166] Activating via systemd: service name='org.freedesktop.thumbnails.Thumbnailer1' unit='tumblerd.service' requested by ':1.26' (uid=1000 pid=1515 comm="Thunar --daemon" label="unconfined")
+2025-12-23T01:38:13.354595+03:00 ondratuyk-pc systemd[1137]: Starting tumblerd.service - Thumbnailing service...
+2025-12-23T01:38:13.422314+03:00 ondratuyk-pc dbus-daemon[1166]: [session uid=1000 pid=1166] Successfully activated service 'org.freedesktop.thumbnails.Thumbnailer1'
+2025-12-23T01:38:13.422891+03:00 ondratuyk-pc systemd[1137]: Started tumblerd.service - Thumbnailing service.

@@ -1,0 +1,2 @@
+2025-12-22T23:26:33.928748+03:00 ondratuyk-pc useradd[9064]: failed adding user 'vboxadd', exit code: 9
+2025-12-23T01:39:20.984829+03:00 ondratuyk-pc sudo: kondratuyk-ki : TTY=pts/0 ; PWD=/home/kondratuyk-ki/lab04 ; USER=root ; COMMAND=/usr/bin/grep failed /var/log/auth.log
