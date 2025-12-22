@@ -1,0 +1,50 @@
+   31  git add .
+   32  git commit -m "Добавлены отчёты по лабораторным работам 1 и 2"
+   33  git push -u origin main
+   34  git remote set-url origin git@github.com:kirill-kondratuyk/SL_LABS.git
+   35  git push -u origin main
+   36  ls -la ~/.ssh
+   37  ssh-keygen -t ed25519 -C "kirillzont@gmail.com"
+   38  cat ~/.ssh/id_ed25519.pub
+   39  ssh -T git@github.com
+   40  git push -u origin main
+   41  touch ~/commands.txt
+   42  mkdir ~/linux_lab
+   43  cd ~/linux_lab
+   44  mkdir -p projects/{scripts,web/{static,templates},docs} temp backups
+   45  tree
+   46  touch projects/scripts/main.py projects/scripts/config.yaml projects/scripts/utils.sh
+   47  touch projects/web/static/index.html projects/web/static/styles.css
+   48  echo "<html><body>test</body></html>" > projects/web/static/index.html
+   49  [200~cp projects/web/static/styles.css temp/old_styles.css~
+   50  mv projects/scripts/config.yaml temp/
+   51  cp projects/scripts/*.sh temp/ 2>/dev/null || echo "No .sh files"
+   52  find ~/linux_lab -type f -exec du -h {} \; | sort -h
+   53  ln ~/linux_lab/projects/scripts/main.py ~/hard_link.txt
+   54  cat ~/hard_link.txt
+   55  echo "Modified via hard link" >> ~/hard_link.txt
+   56  cat ~/linux_lab/projects/scripts/main.py
+   57  ln -s ~/linux_lab/projects/web/static ~/linux_lab/temp/web_link
+   58  cd ~/linux_lab/temp/web_link
+   59  cd ~/linux_lab
+   60  tree ~/linux_lab/temp/web_link
+   61  tar -cf ~/linux_lab/backups/projects_backup.tar ~/linux_lab/projects
+   62  tar -czf ~/linux_lab/backups/web_backup.tar.gz ~/linux_lab/projects/web
+   63  zip -j ~/linux_lab/backups/important_files.zip ~/linux_lab/projects/scripts/main.py ~/linux_lab/projects/scripts/utils.s
+   64  zip -j ~/linux_lab/backups/important_files.zip ~/linux_lab/projects/scripts/main.py ~/linux_lab/projects/scripts/utils.sh
+   65  mkdir -p ~/linux_lab/temp/restored_web
+   66  tar -xzf ~/linux_lab/backups/web_backup.tar.gz -C ~/linux_lab/temp/restored_web --strip-components=3
+   67  unzip -l ~/linux_lab/backups/important_files.zip
+   68  rm -rf ~/linux_lab/temp/*
+   69  rm -rf ~/linux_lab/backups/*
+   70  rm -f ~/linux_lab/temp/web_link 2>/dev/null
+   71  { echo "=== System Report ==="; whoami; logname; pwd; id; echo "=== Files in projects/scripts/ ==="; ls -l ~/linux_lab/projects/scripts/; } > ~/linux_lab/report.txt
+   72  date >> ~/linux_lab/report.txt
+   73  cp ~/linux_lab/report.txt ~/
+   74  zip -r -P 1111 ~/linux_lab_final.zip ~/linux_lab
+   75  du -h ~/linux_lab_final.zip
+   76  rm -rf ~/linux_lab
+   77  unzip -P 1111 ~/linux_lab_final.zip -d ~/
+   78  cat ~/linux_lab/report.txt
+   79  tree ~/linux_lab
+   80  history | tail -50 > ~/commands.txt

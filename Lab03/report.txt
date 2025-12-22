@@ -1,0 +1,9 @@
+=== System Report ===
+kondratuyk-ki
+/home/kondratuyk-ki/linux_lab
+uid=1000(kondratuyk-ki) gid=1000(kondratuyk-ki) groups=1000(kondratuyk-ki),4(adm),24(cdrom),27(sudo),30(dip),46(plugdev),100(users),105(lpadmin),125(sambashare),986(vboxsf)
+=== Files in projects/scripts/ ===
+total 4
+-rw-rw-r-- 2 kondratuyk-ki kondratuyk-ki 23 Dec 23 01:10 main.py
+-rw-rw-r-- 1 kondratuyk-ki kondratuyk-ki  0 Dec 23 01:08 utils.sh
+Tue Dec 23 01:14:11 AM +03 2025
