@@ -1,0 +1,155 @@
+{
+  "Испанский": [
+    {
+      "name": "Nicaragua",
+      "capital": "Managua",
+      "area": 130373.0,
+      "population": 6803886,
+      "flag_url": "https://flagcdn.com/w320/ni.png"
+    },
+    {
+      "name": "Spain",
+      "capital": "Madrid",
+      "area": 505992.0,
+      "population": 49315949,
+      "flag_url": "https://flagcdn.com/w320/es.png"
+    },
+    {
+      "name": "Argentina",
+      "capital": "Buenos Aires",
+      "area": 2780400.0,
+      "population": 46735004,
+      "flag_url": "https://flagcdn.com/w320/ar.png"
+    },
+    {
+      "name": "Venezuela",
+      "capital": "Caracas",
+      "area": 916445.0,
+      "population": 28517000,
+      "flag_url": "https://flagcdn.com/w320/ve.png"
+    },
+    {
+      "name": "Western Sahara",
+      "capital": "El Aaiún",
+      "area": 266000.0,
+      "population": 600904,
+      "flag_url": "https://flagcdn.com/w320/eh.png"
+    },
+    {
+      "name": "Chile",
+      "capital": "Santiago",
+      "area": 756102.0,
+      "population": 20206953,
+      "flag_url": "https://flagcdn.com/w320/cl.png"
+    },
+    {
+      "name": "Colombia",
+      "capital": "Bogotá",
+      "area": 1141748.0,
+      "population": 53057212,
+      "flag_url": "https://flagcdn.com/w320/co.png"
+    },
+    {
+      "name": "Honduras",
+      "capital": "Tegucigalpa",
+      "area": 112492.0,
+      "population": 9892632,
+      "flag_url": "https://flagcdn.com/w320/hn.png"
+    },
+    {
+      "name": "Ecuador",
+      "capital": "Quito",
+      "area": 276841.0,
+      "population": 18103660,
+      "flag_url": "https://flagcdn.com/w320/ec.png"
+    },
+    {
+      "name": "Peru",
+      "capital": "Lima",
+      "area": 1285216.0,
+      "population": 34350244,
+      "flag_url": "https://flagcdn.com/w320/pe.png"
+    },
+    {
+      "name": "Uruguay",
+      "capital": "Montevideo",
+      "area": 181034.0,
+      "population": 3499451,
+      "flag_url": "https://flagcdn.com/w320/uy.png"
+    },
+    {
+      "name": "Mexico",
+      "capital": "Mexico City",
+      "area": 1964375.0,
+      "population": 130575786,
+      "flag_url": "https://flagcdn.com/w320/mx.png"
+    },
+    {
+      "name": "Paraguay",
+      "capital": "Asunción",
+      "area": 406752.0,
+      "population": 6109644,
+      "flag_url": "https://flagcdn.com/w320/py.png"
+    },
+    {
+      "name": "Cuba",
+      "capital": "Havana",
+      "area": 109884.0,
+      "population": 9748007,
+      "flag_url": "https://flagcdn.com/w320/cu.png"
+    },
+    {
+      "name": "Bolivia",
+      "capital": "Sucre",
+      "area": 1098581.0,
+      "population": 11365333,
+      "flag_url": "https://flagcdn.com/w320/bo.png"
+    },
+    {
+      "name": "Guatemala",
+      "capital": "Guatemala City",
+      "area": 108889.0,
+      "population": 18079810,
+      "flag_url": "https://flagcdn.com/w320/gt.png"
+    }
+  ],
+  "Португальский": [
+    {
+      "name": "Angola",
+      "capital": "Luanda",
+      "area": 1246700.0,
+      "population": 36170961,
+      "flag_url": "https://flagcdn.com/w320/ao.png"
+    },
+    {
+      "name": "Mozambique",
+      "capital": "Maputo",
+      "area": 801590.0,
+      "population": 34090466,
+      "flag_url": "https://flagcdn.com/w320/mz.png"
+    },
+    {
+      "name": "Brazil",
+      "capital": "Brasília",
+      "area": 8515767.0,
+      "population": 213421037,
+      "flag_url": "https://flagcdn.com/w320/br.png"
+    }
+  ],
+  "Немецкий": [
+    {
+      "name": "Germany",
+      "capital": "Berlin",
+      "area": 357114.0,
+      "population": 83491249,
+      "flag_url": "https://flagcdn.com/w320/de.png"
+    },
+    {
+      "name": "Namibia",
+      "capital": "Windhoek",
+      "area": 825615.0,
+      "population": 3022401,
+      "flag_url": "https://flagcdn.com/w320/na.png"
+    }
+  ]
+}

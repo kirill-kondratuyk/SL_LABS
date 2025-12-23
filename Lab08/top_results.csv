@@ -1,0 +1,33 @@
+year,discipline,gender,athlete,country,result,venue,date
+2001,Прыжок в высоту,Мужчины,Vyacheslav VORONIN,RUS,2.37,19 AUG 2001,1242
+2002,Прыжок в высоту,Мужчины,Jacques FREITAG,RSA,2.37,23 MAR 2002,1242
+2003,Прыжок в высоту,Мужчины,Stefan HOLM,SWE,2.36,08 FEB 2003,1233
+2004,Прыжок в высоту,Мужчины,Stefan HOLM,SWE,2.37,12 FEB 2004,1242
+2001,Прыжок в высоту,Женщины,Venelina VENEVA-MATEEVA,BUL,2.04,02 JUN 2001,1259
+2002,Прыжок в высоту,Женщины,Kajsa BERGQVIST,SWE,2.05,18 AUG 2002,1269
+2003,Прыжок в высоту,Женщины,Kajsa BERGQVIST,SWE,2.06,26 JUL 2003,1279
+2004,Прыжок в высоту,Женщины,Yelena SLESARENKO,RUS,2.06,28 AUG 2004,1279
+2001,Прыжок с шестом,Мужчины,Dmitri MARKOV,AUS,6.05,09 AUG 2001,1281
+2002,Прыжок с шестом,Мужчины,Jeff HARTWIG,USA,6.02,10 MAR 2002,1272
+2003,Прыжок с шестом,Мужчины,Romain MESNIL,FRA,5.95,06 AUG 2003,1253
+2004,Прыжок с шестом,Мужчины,Timothy MACK,USA,6.01,18 SEP 2004,1270
+2001,Прыжок с шестом,Женщины,Stacy DRAGILA,USA,4.81,09 JUN 2001,1211
+2002,Прыжок с шестом,Женщины,Svetlana FEOFANOVA,RUS,4.78,16 JUL 2002,1202
+2003,Прыжок с шестом,Женщины,Yelena ISINBAYEVA,RUS,4.82,13 JUL 2003,1214
+2004,Прыжок с шестом,Женщины,Yelena ISINBAYEVA,RUS,4.92,03 SEP 2004,1245
+2001,Прыжок в длину,Мужчины,Iván PEDROSO,CUB,8.43,11 MAR 2001,1232
+2002,Прыжок в длину,Мужчины,Miguel PATE,USA,8.59,01 MAR 2002,1267
+2003,Прыжок в длину,Мужчины,Yago LAMELA,ESP,8.53,18 AUG 2003,1254
+2004,Прыжок в длину,Мужчины,Dwight PHILLIPS,USA,8.60,02 AUG 2004,1269
+2001,Прыжок в длину,Женщины,Tatyana KOTOVA,RUS,7.12,09 JUN 2001,1244
+2002,Прыжок в длину,Женщины,Tatyana KOTOVA,RUS,7.42,23 JUN 2002,1311
+2003,Прыжок в длину,Женщины,Maurren Higa MAGGI,BRA,7.06,03 JUN 2003,1231
+2004,Прыжок в длину,Женщины,Tatyana LEBEDEVA,RUS,7.33,31 JUL 2004,1291
+2001,Тройной прыжок,Мужчины,Jonathan EDWARDS,GBR,17.92,06 AUG 2001,1263
+2002,Тройной прыжок,Мужчины,Jonathan EDWARDS,GBR,17.86,28 JUL 2002,1257
+2003,Тройной прыжок,Мужчины,Christian OLSSON,SWE,17.77,09 JUN 2003,1247
+2004,Тройной прыжок,Мужчины,Christian OLSSON,SWE,17.83,07 MAR 2004,1253
+2001,Тройной прыжок,Женщины,Tatyana LEBEDEVA,RUS,15.25,10 AUG 2001,1250
+2002,Тройной прыжок,Женщины,Francoise MBANGO ETONE,CMR,14.95,06 AUG 2002,1215
+2003,Тройной прыжок,Женщины,Yamilé ALDAMA,CUB,15.29,11 JUL 2003,1250
+2004,Тройной прыжок,Женщины,Tatyana LEBEDEVA,RUS,15.36,06 MAR 2004,1257
